@@ -1,8 +1,8 @@
-#  [최댓값](https://www.acmicpc.net/problem/2562) 
+# <img width="20px"  src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" class="solvedac-tier"> [최댓값](https://www.acmicpc.net/problem/2562) 
 
 | 제출 번호 | 닉네임 | 채점 결과 | 메모리 | 시간 | 언어 | 코드 길이 |
 |---|---|---|---|---|---|---|
-|74388122|wonminkyung|맞았습니다!! |17708KB|208ms|Java 11|482B|
+|75795403|znznfltm|맞았습니다!! |17680KB|208ms|Java 15|751B|
 
 ## 문제
 <p>9개의 서로 다른 자연수가 주어질 때, 이들 중 최댓값을 찾고 그 최댓값이 몇 번째 수인지를 구하는 프로그램을 작성하시오.</p>
